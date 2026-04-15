@@ -5,9 +5,9 @@ import {
   DollarSign, History, Info, Play, Heart,
   ArrowLeft, Check, Pause, Volume2
 } from 'lucide-react';
-import { cars } from '../data/cars';
-import { useDreamGarage } from '../hooks/useDreamGarage';
-import { cn } from '../lib/utils';
+import { cars } from '../cars';
+import { useDreamGarage } from '../useDreamGarage';
+import { cn } from '../utils';
 import {
   BarChart, Bar, XAxis, YAxis,
   Tooltip, ResponsiveContainer, Cell
