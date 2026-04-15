@@ -5,7 +5,7 @@ import {
   DollarSign, History, Info, Play, Heart,
   ArrowLeft, Check, Pause, Volume2
 } from 'lucide-react';
-import { cars } from '../cars';
+import { cars } from './cars';
 import { useDreamGarage } from '../useDreamGarage';
 import { cn } from '../utils';
 import {
