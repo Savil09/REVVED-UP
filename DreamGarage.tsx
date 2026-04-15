@@ -2,7 +2,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Heart, Car as CarIcon, ArrowRight } from 'lucide-react';
 import { cars } from './cars';
 import { useDreamGarage } from './useDreamGarage';
-import CarCard from '../CarCard';
+import CarCard from './CarCard';
 import { Link } from 'react-router-dom';
 
 export default function DreamGarage() {
