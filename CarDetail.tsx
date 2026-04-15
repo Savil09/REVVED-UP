@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 import { cars } from './cars';
 import { useDreamGarage } from './useDreamGarage';
-import { cn } from '../utils';
+import { cn } from './utils';
 import {
   BarChart, Bar, XAxis, YAxis,
   Tooltip, ResponsiveContainer, Cell
