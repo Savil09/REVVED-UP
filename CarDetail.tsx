@@ -6,7 +6,7 @@ import {
   ArrowLeft, Check, Pause, Volume2
 } from 'lucide-react';
 import { cars } from './cars';
-import { useDreamGarage } from '../useDreamGarage';
+import { useDreamGarage } from './useDreamGarage';
 import { cn } from '../utils';
 import {
   BarChart, Bar, XAxis, YAxis,
