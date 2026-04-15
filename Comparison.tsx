@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'react';
 import { Plus, X, Gauge, Zap, Timer, Weight } from 'lucide-react';
-import { cars } from '../cars';
+import { cars } from './cars';
 import { cn } from '../utils';
 
 export default function Comparison() {
